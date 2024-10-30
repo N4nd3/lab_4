@@ -1,0 +1,3 @@
+# Create a ship with the first store failing and second never failing
+GT4500,10,1,10,0
+TORPEDO,ALL
